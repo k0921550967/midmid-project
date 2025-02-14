@@ -1,0 +1,16 @@
+/* style.css */
+/* style.css */
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #e0e7e2; /* 淡綠色背景 */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh; /* 確保背景填滿整個視窗 */
+}
+
+#app {
+  color: #333; /* 主要文字顏色 */
+}
